@@ -1,24 +1,24 @@
 {
-  "name": "dracula-telegram",
-  "version": "0.1.2",
-  "description": "A dark theme for Telegram Desktop based on the Dracula Palette.",
+  "name": "one-dark-telegram",
+  "version": "0.0.1",
+  "description": "A dark theme for Telegram Desktop based on the One Dark Palette.",
   "main": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dracula/telegram.git"
+    "url": "git+https://github.com/rideee/one-dark-telegram.git"
   },
   "keywords": [
-    "dracula",
+    "One Dark",
     "telegram",
     "theme"
   ],
-  "author": "Neil Smith, Irfan Maulana",
+  "author": "Michal Katnik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dracula/telegram/issues"
+    "url": "https://github.com/rideee/one-dark-telegram/issues"
   },
-  "homepage": "https://draculatheme.com/telegram"
+  "homepage": "https://github.com/rideee/one-dark-telegram"
 }
